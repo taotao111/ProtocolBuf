@@ -1,0 +1,4 @@
+D:\PersonProject\trunk\ProtocolBuf\ProtocolBuf\bin\Debug\ProtocolBuf.dll
+D:\PersonProject\trunk\ProtocolBuf\ProtocolBuf\bin\Debug\ProtocolBuf.pdb
+D:\PersonProject\trunk\ProtocolBuf\ProtocolBuf\obj\Debug\ProtocolBuf.dll
+D:\PersonProject\trunk\ProtocolBuf\ProtocolBuf\obj\Debug\ProtocolBuf.pdb

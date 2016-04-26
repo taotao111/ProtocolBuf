@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProtocolBuf", "ProtocolBuf\ProtocolBuf.csproj", "{D1F243D8-337D-44B8-9D73-8C7E77D044CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1F243D8-337D-44B8-9D73-8C7E77D044CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1F243D8-337D-44B8-9D73-8C7E77D044CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1F243D8-337D-44B8-9D73-8C7E77D044CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1F243D8-337D-44B8-9D73-8C7E77D044CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = ProtocolBuf\ProtocolBuf.csproj
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,2 @@
+D:\PersonProject\trunk\ProtocolBuf\ProtocolBuf\bin\Release\ProtocolBuf.dll
+D:\PersonProject\trunk\ProtocolBuf\ProtocolBuf\obj\Release\ProtocolBuf.dll
